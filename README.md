@@ -1,5 +1,5 @@
 # useful-classes
-some useful classes
+some useful classes for java
 
 - Images
 - Logger
